@@ -1,5 +1,6 @@
-package com.study.controller.entity;
+package com.study.entity;
 
 public interface UserService {
 	public void save(User user);
+    public User getUser(Integer id);
 }

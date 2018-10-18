@@ -1,4 +1,4 @@
-package com.study.controller.entity;
+package com.study.entity;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
