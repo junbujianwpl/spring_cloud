@@ -26,5 +26,19 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+<!-- 引入jdbc 依赖 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jdbc</artifactId>
+        </dependency>
+        <!-- 引入 mysql 数据库连接依赖-->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+        
+        
     </dependencies>
+    
+    
 </project>
